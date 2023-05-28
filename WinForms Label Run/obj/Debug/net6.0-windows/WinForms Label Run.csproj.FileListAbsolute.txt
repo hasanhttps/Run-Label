@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\bin\Debug\net6.0-windows\WinForms Label Run.exe
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\bin\Debug\net6.0-windows\WinForms Label Run.deps.json
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\bin\Debug\net6.0-windows\WinForms Label Run.runtimeconfig.json
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\bin\Debug\net6.0-windows\WinForms Label Run.dll
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\bin\Debug\net6.0-windows\WinForms Label Run.pdb
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\WinForms Label Run.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\WinForms_Label_Run.Form1.resources
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\WinForms Label Run.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\WinForms Label Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\WinForms Label Run.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\WinForms Label Run.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\WinForms Label Run.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\WinForms Label Run.dll
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\refint\WinForms Label Run.dll
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\WinForms Label Run.pdb
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\WinForms Label Run.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WinForms Label Run\WinForms Label Run\obj\Debug\net6.0-windows\ref\WinForms Label Run.dll
